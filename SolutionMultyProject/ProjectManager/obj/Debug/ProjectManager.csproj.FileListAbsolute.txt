@@ -1,0 +1,34 @@
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.pdb
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe.config
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.pdb
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe.config
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\света\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.pdb
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe.config
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.pdb
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.pdb
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe.config
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.pdb
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe.config
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.exe
+F:\Работа с 2019 года\2021-2022\МДК.01.04 ИС\Работы студентов\SolutionMultyProjectПопова\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.pdb
